@@ -33,7 +33,6 @@ package main
 
 type EngineeringManager struct {
 	Name       string
-	Company    string
 	Location   string
 	Experience string
 
@@ -44,7 +43,6 @@ type EngineeringManager struct {
 
 var me = EngineeringManager{
 	Name:       "Diego Dias",
-	Company:    "Raízen Financial Services",
 	Location:   "São Paulo, Brazil",
 	Experience: "15+ years",
 
