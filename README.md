@@ -28,51 +28,57 @@
 
 # 🚀 About Me
 
-```typescript
-const diego = {
-  role: "Software Engineering Manager",
-  company: "Raízen Financial Services",
+```golang
+package main
 
-  experience: "15+ years",
+type EngineeringManager struct {
+	Name       string
+	Company    string
+	Location   string
+	Experience string
 
-  leadership: [
-    "Software Engineering",
-    "Platform Engineering",
-    "SRE",
-    "DevSecOps",
-    "Data Engineering"
-  ],
+	Leading  []string
+	Building []string
+	Using    []string
+}
 
-  focus: [
-    "Cloud Native Platforms",
-    "Financial Services",
-    "Engineering Management",
-    "Cloud Architecture",
-    "Technology Strategy"
-  ],
+var me = EngineeringManager{
+	Name:       "Diego Dias",
+	Company:    "Raízen Financial Services",
+	Location:   "São Paulo, Brazil",
+	Experience: "15+ years",
 
-  cloud: ["AWS"],
+	Leading: []string{
+		"Software Engineering",
+		"Platform Engineering",
+		"SRE",
+		"DevSecOps",
+		"Data Engineering",
+	},
 
-  platforms: [
-    "Kubernetes",
-    "EKS",
-    "Istio",
-    "ArgoCD",
-    "GitLab",
-    "Terraform",
-    "OpenTofu"
-  ],
+	Building: []string{
+		"Cloud Native Platforms",
+		"Financial Services",
+		"Engineering Excellence",
+		"Technology Strategy",
+		"High Performance Teams",
+	},
 
-  observability: [
-    "Datadog",
-    "Prometheus",
-    "Grafana",
-    "Kiali"
-  ],
+	Using: []string{
+		"AWS",
+		"Kubernetes",
+		"EKS",
+		"Istio",
+		"ArgoCD",
+		"Terraform",
+		"OpenTofu",
+		"Datadog",
+	},
+}
 
-  philosophy:
-    "Technology only creates value when aligned with business strategy."
-};
+func main() {
+	// Transforming technology into business value.
+}
 ```
 
 ---
