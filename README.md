@@ -44,7 +44,7 @@ type EngineeringManager struct {
 var me = EngineeringManager{
 	Name:       "Diego Dias",
 	Location:   "São Paulo, Brazil",
-	Experience: "15+ years",
+	Experience: "20+ years",
 
 	Leading: []string{
 		"Software Engineering",
