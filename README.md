@@ -1,306 +1,90 @@
-<div align="center">
+# Hi, I'm Diego Dias 👋
 
-# 👋 Olá, eu sou Diego Dias
+**IT Infrastructure Manager · Engineering Leadership · Platform Engineering · AWS & FinOps**
 
-### Software Engineering Manager | Platform Engineering | Cloud Architecture
+São Paulo, Brazil
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=326CE5&center=true&vCenter=true&width=900&lines=Software+Engineering+Manager;Platform+Engineering;Cloud+Architecture;AWS+%26+Kubernetes;DevSecOps+Leadership;Building+Financial+Platforms)](https://git.io/typing-svg)
+I have 20 years of experience in technology, including 16 years in infrastructure and platforms. I connect engineering leadership, cloud architecture and operations to improve reliability, cost efficiency and developer experience.
 
-<p align="center">
-  <a href="https://linkedin.com/in/diegoalvesdias">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+At **Descarbonize**, I manage infrastructure for **Aldo Solar and SolAgora**, combining leadership and architecture across AWS, Amazon EKS, observability and C#/.NET application environments. Previously, at **Raízen Financial Services**, I led an eight-person SRE, DevOps and DBRE team and later coordinated 35 people across software engineering, data and infrastructure supporting **Shell Box**.
 
-  <a href="mailto:dias.ti@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[LinkedIn](https://www.linkedin.com/in/diegoalvesdias/) · [Email](mailto:dias.ti@outlook.com)
 
-  <a href="https://github.com/ddias00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+## What I focus on
 
-  <img src="https://komarev.com/ghpvc/?username=ddias00&style=for-the-badge&color=blue"/>
-</p>
+- **Engineering leadership:** developing multidisciplinary teams across Software Engineering, Platform Engineering, SRE, DevSecOps and Data Engineering; aligning technical priorities with business goals.
+- **Platforms and cloud architecture:** building cloud-native foundations, automating infrastructure and improving the experience of teams delivering software.
+- **Reliability and security:** strengthening observability, incident management and security practices throughout the software delivery lifecycle.
 
-</div>
+## Selected results at Raízen
 
----
+Results delivered together with the engineering teams:
 
-# 🚀 About Me
+- **Reliability:** improved overall availability across 120 microservices from approximately 97% to 99.9%.
+- **FinOps:** achieved approximately US$10,000 in monthly savings across cloud and databases, with cost reductions of approximately 30% and 40%, respectively.
+- **Delivery and quality:** achieved delivery rates above 80% per sprint and 90% per Program Increment, with production bugs below 5% of the total number of stories; built Jira indicators reported directly to senior leadership.
+- **Platform modernization:** migrated Rancher RKE to Amazon EKS, introduced OpenTofu infrastructure pipelines and Argo CD GitOps, and led cluster upgrades without downtime.
+- **Developer experience and security:** introduced Backstage, automated repository creation, standardized GitLab CI/CD templates and integrated Veracode SAST/SCA pipeline gates.
+- **Payments:** coordinated Shell Box digital wallet DDA capabilities, Celcoin and Yuno integrations, and the migration of payments from Mercado Pago to Cielo.
+- **AI in engineering:** introduced Cursor and Kiro, automated code review with agents and encouraged AI adoption across development teams.
 
-```golang
+## Projects and code
+
+My public repositories are a place to explore my code, technical interests and experiments.
+
+[Explore my repositories →](https://github.com/ddias00?tab=repositories)
+
+## Technical toolkit
+
+- **Cloud and platforms:** AWS, Amazon EKS / Kubernetes, Karpenter, KEDA, Backstage, Cloudflare.
+- **Infrastructure and delivery:** OpenTofu, Terraform, Argo CD, Argo Rollouts, GitLab CI/CD, Jenkins, Ansible, Docker.
+- **Observability and SRE:** Datadog, Grafana, Kiali, SLOs/SLAs, incident management, high availability and recovery processes.
+- **Security and FinOps:** Veracode SAST/SCA, SonarQube, MFA, cloud and database cost optimization, Kubecost.
+- **Software and automation:** Python, TypeScript / Node.js, React, Go (Gin), Cypress; architecture and leadership in C#/.NET environments.
+- **Leadership:** people development, PI Planning, Scrum, delivery metrics, architecture governance and coordination with product owners.
+
+<details>
+<summary>A little about me, in Go</summary>
+
+```go
 package main
 
 type EngineeringManager struct {
-	Name       string
-	Location   string
-	Experience string
-
-	Leading  []string
-	Building []string
-	Using    []string
+    Name     string
+    Location string
+    Focus    []string
 }
 
 var me = EngineeringManager{
-	Name:       "Diego Dias",
-	Location:   "São Paulo, Brazil",
-	Experience: "20+ years",
-
-	Leading: []string{
-		"Software Engineering",
-		"Platform Engineering",
-		"SRE",
-		"DevSecOps",
-		"Data Engineering",
-	},
-
-	Building: []string{
-		"Cloud Native Platforms",
-		"Financial Services",
-		"Engineering Excellence",
-		"Technology Strategy",
-		"High Performance Teams",
-	},
-
-	Using: []string{
-		"AWS",
-		"Kubernetes",
-		"EKS",
-		"Istio",
-		"ArgoCD",
-		"Terraform",
-		"OpenTofu",
-		"Datadog",
-	},
-}
-
-func main() {
-	// Transforming technology into business value.
+    Name:     "Diego Dias",
+    Location: "São Paulo, Brazil",
+    Focus: []string{
+        "Engineering leadership",
+        "Cloud-native platforms",
+        "Reliability and security",
+        "Developer experience",
+    },
 }
 ```
 
----
+</details>
 
-# 💼 Professional Summary
+## Certifications
 
-Software Engineering Manager with 15+ years of experience leading engineering teams and building mission-critical platforms for financial services, cloud infrastructure and enterprise environments.
-
-Currently leading multidisciplinary teams across Software Engineering, Platform Engineering, SRE, DevSecOps and Data Engineering at Raízen Financial Services, driving technology strategy, architectural evolution and operational excellence.
-
-Strong background in AWS, Kubernetes, Platform Engineering, Cloud Native Architectures and Engineering Leadership, combining strategic vision with hands-on technical expertise.
-
-Experienced in aligning business objectives with technology investments, establishing engineering standards, improving platform reliability, accelerating software delivery and fostering high-performance engineering cultures.
-
-Passionate about transforming technology into a competitive advantage through scalable architectures, automation, security, observability and continuous improvement.
-
----
-
-# 📈 Career Highlights
-
-| Achievement | Impact |
-|------------|--------|
-| 🏦 Financial Services Leadership | Leading multidisciplinary engineering teams |
-| ☁️ Cloud Native Platforms | AWS-first architecture and operations |
-| ☸️ Kubernetes Expertise | Production EKS platform management |
-| 🚀 Platform Engineering | Developer experience and internal platforms |
-| 🔐 DevSecOps | Security embedded throughout the SDLC |
-| 📊 Observability | Full-stack monitoring and incident management |
-| ⚙️ Infrastructure as Code | Automated provisioning and governance |
-| 👥 Engineering Leadership | Team growth, strategy and delivery excellence |
-
----
-
-# 👥 Leadership & Management
-
-- Engineering Management
-- Technical Leadership
-- Team Development & Mentoring
-- Agile Delivery
-- Scrum & Kanban
-- Stakeholder Management
-- Product & Technology Alignment
-- Architecture Governance
-- Change Management (GMUD)
-- Incident & Problem Management
-- Continuous Improvement
-- Technology Strategy
-
----
-
-# ☁️ Cloud & Infrastructure
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# ☸️ Platform Engineering & Kubernetes
-
-<p>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Karpenter-0052CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🔐 DevSecOps & Security
-
-<p>
-
-<img src="https://img.shields.io/badge/SAST-EA4335?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SCA-34A853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SBOM-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CSPM-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CWPP-8E24AA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 Observability
-
-<p>
-
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kiali-E6522C?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💻 Languages & Automation
-
-<p>
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ShellScript-121011?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🏆 Certifications
-
+- AWS Certified AI Practitioner
 - AWS Certified Cloud Practitioner
-- Scrum Foundation Professional Certificate
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 - DevOps Essentials
-- LGPD Fundamentals
-- Kubernetes Studies
-- Platform Engineering
-- DevSecOps
-- Cloud Architecture
 
----
+## Education
 
-# 🚀 Areas of Expertise
+- Bachelor's degree in Software Engineering — UNIGRAN, 2026.
+- Postgraduate specialization in Computer Forensics and Digital Investigation — IPOG, 2019.
+- MBA in Information Technology Management — UNOPAR, 2018.
+- Technology degree in Computer Networks — UCDB.
 
-- Software Engineering Management
-- Platform Engineering
-- Cloud Architecture
-- AWS
-- Kubernetes
-- SRE
-- DevSecOps
-- Observability
-- GitOps
-- CI/CD
-- Infrastructure as Code
-- Engineering Leadership
-- Technology Governance
-- Financial Services
+## Let's connect
 
----
+I'm interested in conversations about engineering leadership, platform engineering and cloud architecture.
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddias00&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddias00&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ddias00&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ddias00&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/diegoalvesdias">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dias.ti@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/ddias00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Transforming technology into business value through Engineering Excellence.
-
-</div>
+[Connect on LinkedIn](https://www.linkedin.com/in/diegoalvesdias/) or [get in touch by email](mailto:dias.ti@outlook.com).
